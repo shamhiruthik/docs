@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://docs.spacescan.io/blog</id>
+    <title>Spacescan.io Docs Blog</title>
+    <updated>2022-03-14T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://docs.spacescan.io/blog"/>
+    <subtitle>Spacescan.io Docs Blog</subtitle>
+    <icon>https://docs.spacescan.io/img/spacescan-logo.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Partnering with Openchia]]></title>
+        <id>open_chia_partnership</id>
+        <link href="https://docs.spacescan.io/blog/open_chia_partnership"/>
+        <updated>2022-03-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Spacescan.io got another hand to work together for helping the chia community grow faster. We are partnering with Openchia.io, a leading opensoure pool operator. Openchia pooling can be done by using either Chia GUI/CLI.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.spacescan.io/" target="_blank" rel="noopener noreferrer">Spacescan.io</a> got another hand to work together for helping the chia community grow faster. We are partnering with <a href="https://openchia.io/" target="_blank" rel="noopener noreferrer">Openchia.io</a>, a leading opensoure pool operator. Openchia pooling can be done by using either Chia GUI/CLI.  </p><h2 class="anchor anchorWithStickyNavbar_mojV" id="openchia-team">OpenChia Team<a class="hash-link" href="#openchia-team" title="Direct link to heading">​</a></h2><p>Openchia team have more than 20 years of combined experience in the software development industry. They are one of the leading chia pool protocol. Openchia team is completely open source and anyone can suggest or contribute in their <a href="https://github.com/openchia/web/issues" target="_blank" rel="noopener noreferrer">github</a>.</p><p>They have many exciting features like mobile applications for monitoring the user pool, farming stats, payouts and more. The openchia mobile application is available in both <a href="https://apps.apple.com/us/app/openchia/id1595607176" target="_blank" rel="noopener noreferrer">Apple store</a> and in <a href="https://play.google.com/store/apps/details?id=com.openchia&amp;pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1" target="_blank" rel="noopener noreferrer">Google play store</a>. </p><ul><li><p>Most transparent pool out there!</p></li><li><p>Currently most profitable pool of all!</p></li><li><p>Native mobile app on both Android and iOS for your travels. Be alerted when blocks are found.</p></li><li><p>Instant payout and optional minimal payout</p></li><li><p>All our software (api, pool, bot, web, mobile) are open source and available on Github repositories.</p></li><li><p>All farmer participating in our pool are eligible in our giveaway! Tickets on farmer page</p></li><li><p>fast-growing and helpfull community!</p></li><li><p>Ever improving pool based on what our farmers need</p></li><li><p>Modified fullnode for Chinese farmers </p></li></ul><p><img loading="lazy" alt="opnChiaPartnership" src="/assets/images/openChiaPartnership-9722fc89b98bcbb2e11d4d60f8e3e110.png" width="1843" height="868"></p><p><a href="https://openchia.io/en/partners" target="_blank" rel="noopener noreferrer">Open Chia Partnering with spacescan</a></p><h2 class="anchor anchorWithStickyNavbar_mojV" id="partnership-with-spacescan">Partnership with Spacescan<a class="hash-link" href="#partnership-with-spacescan" title="Direct link to heading">​</a></h2><p>Inorder to help the chia community grow faster, spacescan and openchia joined their hands to lift the community up. We are planning to come out with exciting features that helps the user to have better user experience. </p><p><img loading="lazy" alt="spacescan.ioPartnership" src="/assets/images/SpacescanPartnership-47ef6d98f7ffbfda8f2fd5ec0613d6da.png" width="1435" height="678"></p>]]></content>
+        <author>
+            <name>AjayZorro</name>
+        </author>
+        <category label="Chia" term="Chia"/>
+        <category label="spacescan" term="spacescan"/>
+        <category label="explorer" term="explorer"/>
+        <category label="charts" term="charts"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Internship Program-2022]]></title>
+        <id>Intern Program-2022</id>
+        <link href="https://docs.spacescan.io/blog/Intern Program-2022"/>
+        <updated>2022-03-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Spacescan.io team is planning to expand its boundaries by hosting Internship programs. We are welcoming college/University students for a fully remote internship globally.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.spacescan.io/" target="_blank" rel="noopener noreferrer">Spacescan.io</a> team is planning to expand its boundaries by hosting Internship programs. We are welcoming college/University students for a fully remote internship globally.</p><p> Spacescan will provide the students with the knowledge on how to build softwares in a professional working environment. Interns will learn blockchain, Crypto- transactions, Artificial Intelligence and Machine Learning on large datasets. Students working with spacescan will be making a huge impact to the chia community and thousands of spacscan users. </p><p>Spacesan provides different tasks, projects and meaningful mentorship to the students, so that they can learn new stuffs out of their academics. For interns, we exclusively host a hybrid model, where the interns will not join the daily meeting or call, but will be part of the daily tasks and spacescan updates. Tasks will be allocated in the spacescan <a href="https://github.com/spacescan-io" target="_blank" rel="noopener noreferrer">github portal</a>, Interns can pick and work on the tasks that they like to work on. </p><h2 class="anchor anchorWithStickyNavbar_mojV" id="apply-here">Apply here<a class="hash-link" href="#apply-here" title="Direct link to heading">​</a></h2><p>Spacescan really appreciate each and every canditate who applies for the internship as they are making a huge forward step in their career. </p><div class="admonition admonition-info alert alert--info"><div class="admonition-heading"><h5><span class="admonition-icon"><svg xmlns="http://www.w3.org/2000/svg" width="14" height="16" viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>Apply Here</h5></div><div class="admonition-content"><p><a href="https://forms.gle/dSMFa7rT7u3dERsT7" target="_blank" rel="noopener noreferrer">Application Link!</a></p></div></div><h2 class="anchor anchorWithStickyNavbar_mojV" id="what-interns-will-get-from-spacescanio-internship">What Interns will get from Spacescan.io Internship<a class="hash-link" href="#what-interns-will-get-from-spacescanio-internship" title="Direct link to heading">​</a></h2><ul><li><p>Working with Founding team of software engineers and Architects from fortune 100 companies with more than 15 years of experience from USA and Canada.</p></li><li><p>Highly motivated team and passionate about the blockchain technologies.​</p></li><li><p>Leading chia blockchain explorer in the market with exclusive features. </p></li><li><p>The only analytical platform that provides in-depth on-chain metrics, interactive charts, and APIs for enterprises in chia blockchain.​</p></li><li><p>On completion of 6-months intern period, experience certificate will be provided from spacescan.io. ​</p></li></ul><h2 class="anchor anchorWithStickyNavbar_mojV" id="eligible-criteria">Eligible Criteria<a class="hash-link" href="#eligible-criteria" title="Direct link to heading">​</a></h2><p>There are few criterion, that we follow for the interning with spacescan. </p><ul><li><p>Should be an active&nbsp;student in college/University.</p></li><li><p>Should commit weekly 10 hours for learning and contributions</p></li><li><p>Must have knowledge in node.js &amp;&nbsp;React.js.</p></li><li><p>Having knowledge in blockchain, chialisp, python is an advantage.</p></li><li><p>Self-motivated and passionate about learning&nbsp;new technologies.</p></li><li><p>Interns might have initial screening via zoom.</p></li></ul><p>Interns will have an opportunity to work with spacescan.io team after the completion of intern period based on the performance and interest towards the chia community. </p><p><img loading="lazy" alt="background_non_footer" src="/assets/images/background_non_footer-670fee0c5746fd1141cb339a6a2dbfe6.jpg" width="3126" height="1043"></p>]]></content>
+        <author>
+            <name>AjayZorro</name>
+        </author>
+        <category label="Chia" term="Chia"/>
+        <category label="spacescan" term="spacescan"/>
+        <category label="explorer" term="explorer"/>
+        <category label="charts" term="charts"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mempool Min Fees Trend]]></title>
+        <id>Mempool_Min_Fees_Trend</id>
+        <link href="https://docs.spacescan.io/blog/Mempool_Min_Fees_Trend"/>
+        <updated>2022-03-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Spacescan.io is an initiative mainly developed for the chia community to explore the chia blockchain. Spacescan is an easy accessible blockchain explorer and analytics platform with indepth details about the chia blockchain.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.spacescan.io/" target="_blank" rel="noopener noreferrer">Spacescan.io</a> is an initiative mainly developed for the chia community to explore the chia blockchain. Spacescan is an easy accessible blockchain explorer and analytics platform with indepth details about the chia blockchain.</p><h2 class="anchor anchorWithStickyNavbar_mojV" id="min-chia-transactions-fees">Min chia transactions fees<a class="hash-link" href="#min-chia-transactions-fees" title="Direct link to heading">​</a></h2><p>During dust storms, you can use the below min fees to get transactions in next block.
+We calculate fees based on 5M cost estimate and this is more than enough to get your transaction into next block in chia block chain.</p><p><img loading="lazy" alt="Chiatothemoon Plushie" src="/assets/images/Min_fees-82eef9c3bf3eda720cc572757c31a564.PNG" width="1757" height="621"></p><h2 class="anchor anchorWithStickyNavbar_mojV" id="min-fees-trend-chart">Min fees trend chart<a class="hash-link" href="#min-fees-trend-chart" title="Direct link to heading">​</a></h2><p>Spacescan added new chart exclusively for mempool Min Fees. Initially, this mempool min fees were combined with mempool fees chart. To bring clarity, now mempool Min fees are seprated into its own chart to bring the trend.</p><p><img loading="lazy" alt="Chiatothemoon Plushie" src="/assets/images/mempoolmin-f8145c3ac1eea2bed72ff2ed3e44436f.png" width="1487" height="757"></p><h2 class="anchor anchorWithStickyNavbar_mojV" id="navigation">Navigation<a class="hash-link" href="#navigation" title="Direct link to heading">​</a></h2><p>This new change can be viewed in the spacescan explorer, under the charts sections. Inside the chart dropdown section, there is a dedicated column for the mempool, where we can find the link for mempool min fees. This would give the min fees in mojos for 5M cost transactions.</p><p>The one month and one year mempool min fees details might take some time to load as the we have been storing the min fees data for few weeks.</p><p><img loading="lazy" alt="Chiatothemoon Plushie" src="/assets/images/select_chart-534dda94ca380f733ae2e256a78aba2e.png" width="1918" height="540"></p><p>Provide your feedbacks, suggestions, bugs and new feature recommendation in our <a href="https://discord.com/invite/Bb4sj3Bg9P" target="_blank" rel="noopener noreferrer">discord</a>, <a href="https://twitter.com/spacescan_io" target="_blank" rel="noopener noreferrer">twitter</a>, <a href="https://github.com/spacescan-io/web/issues" target="_blank" rel="noopener noreferrer">github</a> or at <code>spacescan.io@gmail.com</code></p>]]></content>
+        <author>
+            <name>AjayZorro</name>
+        </author>
+        <category label="Chia" term="Chia"/>
+        <category label="spacescan" term="spacescan"/>
+        <category label="explorer" term="explorer"/>
+        <category label="charts" term="charts"/>
+        <category label="announcements" term="announcements"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mempool Cost trend]]></title>
+        <id>Mempool_Cost_trend</id>
+        <link href="https://docs.spacescan.io/blog/Mempool_Cost_trend"/>
+        <updated>2022-03-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Spacescan.io is an initiative mainly developed for the chia community to explore the chia blockchain. Spacescan is an easy accessible blockchain explorer and analytics platform with indepth details about the chia blockchain.]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.spacescan.io/" target="_blank" rel="noopener noreferrer">Spacescan.io</a> is an initiative mainly developed for the chia community to explore the chia blockchain. Spacescan is an easy accessible blockchain explorer and analytics platform with indepth details about the chia blockchain.</p><p>As per user request, spacescan added new chart exclusively for mempool cost and removed combined mempool fees and mempool min fees together.
+Hence, users can view the fees and min fees in a chart together and can view the mempool cost chart seperately. </p><p><img loading="lazy" alt="Chiatothemoon Plushie" src="/assets/images/mempoolchart-5444fdcc990e26a14a52327c2b934f33.png" width="1442" height="776"></p><h2 class="anchor anchorWithStickyNavbar_mojV" id="api-documentation">API Documentation<a class="hash-link" href="#api-documentation" title="Direct link to heading">​</a></h2><p><a href="https://www.spacescan.io/" target="_blank" rel="noopener noreferrer">Spacescan.io</a> is now providing the link to the documentation website <a href="https://docs.spacescan.io/" target="_blank" rel="noopener noreferrer">docs.spacescan.io</a> from the explorer. So, the developers can navigate themselves from the spacescan explorer to the documentation website, from which they can integrate and learn about the API and other spacescan information.</p><p>Users can click or hover over the settings navigation bar in the top of spacscan explorer. Inside the settings, navigation dropdown users can find out the API documentation. </p><p><img loading="lazy" alt="dropdown Pics" src="/assets/images/navBar-b7339db05b97c7adf75f61944a669d1e.png" width="1177" height="448"></p><p>Provide your feedbacks, suggestions, bugs and new feature recommendation in our <a href="https://discord.com/invite/Bb4sj3Bg9P" target="_blank" rel="noopener noreferrer">discord</a>, <a href="https://twitter.com/spacescan_io" target="_blank" rel="noopener noreferrer">twitter</a>, <a href="https://github.com/spacescan-io/web/issues" target="_blank" rel="noopener noreferrer">github</a> or at <code>spacescan.io@gmail.com</code></p>]]></content>
+        <author>
+            <name>JagRudh</name>
+        </author>
+        <category label="Chia" term="Chia"/>
+        <category label="spacescan" term="spacescan"/>
+        <category label="explorer" term="explorer"/>
+        <category label="charts" term="charts"/>
+        <category label="announcements" term="announcements"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>welcome</id>
+        <link href="https://docs.spacescan.io/blog/welcome"/>
+        <updated>2022-02-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Spacescan.io is an initiative mainly developed for the chia community to explore the chia blockchain. Spacescan is an easy accessible blockchain explorer and analytics platform with indepth details about the chia blockchain. Spacescan is developed by three friends, who works on weekends and started this out of passion and frustration]]></summary>
+        <content type="html"><![CDATA[<p><a href="https://www.spacescan.io/" target="_blank" rel="noopener noreferrer">Spacescan.io</a> is an initiative mainly developed for the chia community to explore the chia blockchain. Spacescan is an easy accessible blockchain explorer and analytics platform with indepth details about the chia blockchain. Spacescan is developed by three friends, who works on weekends and started this out of passion and frustration
+with the current explorers. Spacescan is now under rapid development and undergo frequent updates.<br>
+<!-- -->Spacescan.io mainly focus on the user preference and provides features that are requested by the user.
+Suggestions and feature recommendations are always open to help the community grow better and faster.
+Spacescan.io is started to proivde more user-friendly, mature and professional experience for chia blockchain, which is
+available for other crypto platforms other than chia.  </p><p><img loading="lazy" alt="Chiatothemoon Plushie" src="/assets/images/chiatothemoon-e0a26fedfc23a3bd4c6f9f8c7b48ec5a.jpg" width="6000" height="2001"></p><p>Provide your feedbacks, suggestions, bugs and new feature recommendation in our <a href="https://discord.com/invite/Bb4sj3Bg9P" target="_blank" rel="noopener noreferrer">discord</a>, <a href="https://twitter.com/spacescan_io" target="_blank" rel="noopener noreferrer">twitter</a>, <a href="https://github.com/spacescan-io/web/issues" target="_blank" rel="noopener noreferrer">github</a> or at <code>spacescan.io@gmail.com</code></p>]]></content>
+        <author>
+            <name>Natsabari</name>
+        </author>
+        <category label="Chia" term="Chia"/>
+        <category label="spacescan" term="spacescan"/>
+        <category label="explorer" term="explorer"/>
+    </entry>
+</feed>
